@@ -58,3 +58,4 @@ gem 'jquery-rails'
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'popper_js'
 gem "font-awesome-rails"
+gem 'devise'
