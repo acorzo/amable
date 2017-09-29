@@ -1,0 +1,17 @@
+#intro {
+  background: image-url('bg-pareja.png') no-repeat;
+  background-size: cover;
+  background-position: 35% 35%;
+  color: white;
+}
+
+.intro-wrapper {
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 600px;
+  width: 100%;
+}
+
+// Welcome imagen
+img {
+  max-width: 100%;
+}
